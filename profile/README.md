@@ -240,7 +240,7 @@ CREATE TABLE cart(
 
 En estas capturas podremos ver como se ven ya los servicios desplegados desde el portal del Spring Boot Admin.
 
-![Aqui podemos ver los puertos de todos los microservicios](../img/1.png)
+![Primera vista](../img/1.png)
 
 Esta es otra vista que tenemos de los microservicios corriendo
 
